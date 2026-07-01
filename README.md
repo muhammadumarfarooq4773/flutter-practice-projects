@@ -1,6 +1,19 @@
 # my_first_app
 
-A new Flutter project.
+Flutter Practice Projects
+
+This repository contains my Flutter learning projects including:
+
+• Forms & Validation
+• Bottom Navigation Bar
+• Drawer Navigation
+• ListView & ListView.builder
+• GridView & GridView.builder
+• Student Card UI
+• Dynamic Dashboard UI
+
+Developed by:
+Muhammad Umar Farooq
 
 ## Getting Started
 
